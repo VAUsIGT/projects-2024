@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\XOMA\source\repos\projects-2024\lect14\main\main\main.cpp(41,35): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\XOMA\source\repos\projects-2024\lect14\main\main\main.cpp(46,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\XOMA\source\repos\projects-2024\lect14\main\main\main.cpp(47,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.vcxproj -> C:\Users\XOMA\source\repos\projects-2024\lect14\main\x64\Debug\main.exe
