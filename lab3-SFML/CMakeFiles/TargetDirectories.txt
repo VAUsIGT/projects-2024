@@ -1,0 +1,3 @@
+C:/Users/XOMA/Documents/GitHub/projects-2024/SFML2/CMakeFiles/sfml_sample.dir
+C:/Users/XOMA/Documents/GitHub/projects-2024/SFML2/CMakeFiles/ALL_BUILD.dir
+C:/Users/XOMA/Documents/GitHub/projects-2024/SFML2/CMakeFiles/ZERO_CHECK.dir
