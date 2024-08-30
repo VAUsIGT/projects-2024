@@ -1,0 +1,10 @@
+^C:\USERS\XOMA\SOURCE\REPOS\PROJECTS-2024\SFML_SAMPLE-MAIN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/XOMA/source/repos/projects-2024/sfml_sample-main -BC:/Users/XOMA/Documents/GitHub/projects-2024/SFML2 --check-stamp-file C:/Users/XOMA/Documents/GitHub/projects-2024/SFML2/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
